@@ -2,6 +2,7 @@
 Content history of Yamify AI Cloud 
 Week 1
 May 13 - 16
+
 Africa, Your Cloud Is Here!
 
 Say hello to Yamify — The AI-first Sovereign Cloud for Africa.
