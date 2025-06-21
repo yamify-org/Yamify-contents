@@ -30,3 +30,41 @@ Empower African tech and non-tech founders with comprehensive knowledge to lever
  3. African Context - Examples relevant to African markets and challenges.
 
  4. Multi-Modal Learning - Videos, documentation, interactive tutorials, webinars.
+
+
+## 📚 Curriculum Structure
+
+### FOUNDATION LEVEL (Weeks 1-2)
+
+### Module 1: Platform Introduction & Setup
+
+#### 1.1 Welcome to YamifyAI
+
+- What is YamifyAI? Understanding sovereign AI in Africa
+- Platform Overview - Core services and capabilities
+- Why Choose YamifyAI? Benefits over international platforms.
+
+#### 1.2 Account Setup & Navigation
+
+- Creating Your Account - Step-by-step registration
+- Dashboard Overview - Understanding the interface
+- Profile Configuration - Setting up your organization
+- Billing & Pricing - Understanding affordable pricing models
+- What is App Deployment? - From code to live application
+- YamifyAI One-Click Deployment - Simplified process walkthrough
+
+#### 1.3 Platform Fundamentals
+
+- Key Terminology - Cloud, AI, deployment, scaling concepts
+- Service Categories - Cloud hosting, AI tools, deployment options
+- Support System - Help resources, documentation, community *write articles on vscode server, Wordpress and n8n,Yam (what is yam)
+How to deploy a wordpress
+Interactive platform
+WHat is kubernetics
+What is a cluster, their 
+What is App Deployment
+YamifyAI One-Click Deployment
+How to create a yam 
+Explain the features
+Key Terminologies* - Cloud, AI, deployment, scaling concepts, workspace, Yams, Groups, projects, V-cluster.
+
