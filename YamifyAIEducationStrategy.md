@@ -1,10 +1,10 @@
 # Education Strategy & User Training Curriculum
 
-_African Sovereign AI/Cloud Platform Learning Path.
+*African Sovereign AI/Cloud Platform Learning Path
 
-We host AI apps, health, fintech data in our local datacenters in Africa.
+We host AI apps, health, fintech data in our local datacenters in Africa
 
-We are a google backed startup and partnered with top datacenters in Africa._
+We are a google backed startup and partnered with top datacenters in Africa*
 
 
 ## 🎯 Education Strategy Overview
