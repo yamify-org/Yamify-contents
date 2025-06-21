@@ -2,6 +2,7 @@
 
 *African Sovereign AI/Cloud Platform Learning Path. We host AI apps, health, fintech data in our local datacenters in Africa. We are a google backed startup and partnered with top datacenters in Africa.*
 
+#
 
 ## 🎯 Education Strategy Overview
 
@@ -27,6 +28,7 @@ Empower African tech and non-tech founders with comprehensive knowledge to lever
 
  4. Multi-Modal Learning - Videos, documentation, interactive tutorials, webinars.
 
+#
 
 ## 📚 Curriculum Structure
 
@@ -64,6 +66,7 @@ How to create a yam
 Explain the features
 Key Terminologies* - Cloud, AI, deployment, scaling concepts, workspace, Yams, Groups, projects, V-cluster.
 
+#
 
 ### Module 2: Understanding Cloud Services
 
@@ -113,3 +116,29 @@ Key Terminologies* - Cloud, AI, deployment, scaling concepts, workspace, Yams, G
 
 ##### 📝 Practical Exercise: Deploy your first application using templates
 
+#
+
+### Module 4: AI Tools Integration
+
+#### 4.1 AI Services Overview
+
+- Available AI Models - NLP, computer vision, predictive analytics
+- African Language Support - Local language processing capabilities
+- Use Case Examples - Real-world AI applications
+- Pricing & Usage - Understanding AI service costs
+
+#### 4.2 Beginner AI Implementation
+
+- API Integration Basics - Connecting AI services to your app
+- Pre-trained Models - Using ready-made AI solutions
+- Data Preparation - Getting your data AI-ready
+- Testing & Validation - Ensuring AI accuracy
+
+#### 4.3 Advanced AI Customization
+
+- Model Training - Creating custom AI models
+- Fine-tuning Existing Models - Adapting to your specific needs
+- MLOps Practices - Managing AI model lifecycles
+- Performance Optimization - Improving AI response times
+
+##### 📝 Practical Exercise: Integrate a chatbot AI service into your application
