@@ -1,10 +1,6 @@
 # Education Strategy & User Training Curriculum
 
-*African Sovereign AI/Cloud Platform Learning Path
-
-We host AI apps, health, fintech data in our local datacenters in Africa
-
-We are a google backed startup and partnered with top datacenters in Africa*
+*African Sovereign AI/Cloud Platform Learning Path. We host AI apps, health, fintech data in our local datacenters in Africa. We are a google backed startup and partnered with top datacenters in Africa*
 
 
 ## 🎯 Education Strategy Overview
@@ -68,3 +64,21 @@ How to create a yam
 Explain the features
 Key Terminologies* - Cloud, AI, deployment, scaling concepts, workspace, Yams, Groups, projects, V-cluster.
 
+
+### Module 2: Understanding Cloud Services
+
+#### 2.1 Cloud Basics for Everyone
+
+- What is Cloud Computing? - Simple explanations for non-tech users
+- Types of Cloud Services - IaaS, PaaS, SaaS simplified
+- YamifyAI Cloud Architecture - How our infrastructure works
+- Data Sovereignty - Why African-hosted matters
+
+#### 2.2 Service Selection Guide
+
+- Compute Resources - Understanding CPU, RAM, storage
+- Database Options - Choosing the right database for your needs
+- Networking Basics - Domains, SSL, CDN services
+- Security Features - Built-in protection and compliance
+
+##### 📝 Practical Exercise: Calculate resource needs for a sample application
