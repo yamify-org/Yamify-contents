@@ -1,20 +1,20 @@
 # Yamify-contents
 Content histories of Yamify AI Cloud 
 
-# Account Setup & Navigation
+## Account Setup & Navigation
 
-## Creating Your Account
+### Creating Your Account
 
-- **Visit yamify.co**
-- **Click "Join Waitlist" or "Sign Up"**
-- **Choose to sign up via Google, GitHub, or Email**
-- **Fill in your details: Email, Name, Location, Password**
-- **Verify your OTP sent via email**
-- **After successful verification, name your Workspace**
-- **Optionally, create your first Yam immediately**
-- **Launch your Workspace**
+- Visit yamify.co
+- Click **"Join Waitlist"**
+- Choose to sign up via Google, GitHub, or Email
+- Fill in your details: Email, Name, Location, Password
+- Verify your OTP sent via email
+- After successful verification, name your Workspace
+- Optionally, create your first Yam immediately
+- Launch your Workspace
 
-## Welcome to Yamify!🎉
+#### Welcome to Yamify!🎉
 
 # Workspace Overview
 
