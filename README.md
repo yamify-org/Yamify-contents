@@ -2,6 +2,9 @@
 # Yamify-contents
 Content histories of Yamify AI Cloud 
 
+
+## Platform Onboarding Usage Guide
+
 ## Account Setup & Navigation
 
 ### Creating Your Account
