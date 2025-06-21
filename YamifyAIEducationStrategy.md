@@ -142,3 +142,36 @@ Key Terminologies* - Cloud, AI, deployment, scaling concepts, workspace, Yams, G
 - Performance Optimization - Improving AI response times
 
 ##### 📝 Practical Exercise: Integrate a chatbot AI service into your application
+
+#
+
+## ADVANCED LEVEL (Weeks 6-8)
+
+### Module 5: Scaling & Optimization
+
+#### 5.1 Performance Management
+
+- Monitoring & Analytics - Understanding app performance metrics
+- Load Balancing - Distributing traffic effectively
+- Auto-scaling - Handling traffic spikes automatically
+- Performance Troubleshooting - Identifying and fixing bottlenecks
+
+####5.2 Cost Optimization
+
+- Resource Right-sizing - Matching resources to actual needs
+
+- Reserved Instances - Long-term cost savings
+- Usage Analytics - Understanding your spending patterns
+- Budget Alerts - Setting up cost monitoring
+
+#### 5.3 Advanced Architecture
+
+- Microservices Design - Breaking down monolithic applications
+- Database Optimization - Query performance and indexing
+- Caching Strategies - Improving response times
+- CDN Implementation - Global content delivery
+
+##### 📝 Practical Exercise: Optimize an existing application for better performance
+
+#
+
