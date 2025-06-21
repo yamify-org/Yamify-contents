@@ -1,6 +1,6 @@
 # Education Strategy & User Training Curriculum
 
-*African Sovereign AI/Cloud Platform Learning Path. We host AI apps, health, fintech data in our local datacenters in Africa. We are a google backed startup and partnered with top datacenters in Africa*
+*African Sovereign AI/Cloud Platform Learning Path. We host AI apps, health, fintech data in our local datacenters in Africa. We are a google backed startup and partnered with top datacenters in Africa.*
 
 
 ## 🎯 Education Strategy Overview
@@ -82,3 +82,34 @@ Key Terminologies* - Cloud, AI, deployment, scaling concepts, workspace, Yams, G
 - Security Features - Built-in protection and compliance
 
 ##### 📝 Practical Exercise: Calculate resource needs for a sample application
+
+#
+
+
+## INTERMEDIATE LEVEL (Weeks 3-5)
+
+### Module 3: Application Deployment
+
+#### 3.1 Deployment Fundamentals
+
+- What is App Deployment? - From code to live application
+- YamifyAI One-Click Deployment - Simplified process walkthrough
+- Supported Technologies - Languages, frameworks, databases
+- Environment Management - Development, staging, production
+
+#### 3.2 For Tech Founders
+
+- Code Repository Integration - GitHub, GitLab connections
+- CI/CD Pipelines - Automated deployment workflows
+- Container Deployment - Docker and container orchestration
+- API Management - RESTful services and microservices
+
+#### 3.3 For Non-Tech Founders
+
+- Template-Based Deployment - Using pre-built applications
+- No-Code Solutions - Building apps without programming
+- WordPress & CMS - Content management system deployment
+- E-commerce Platforms - Setting up online stores
+
+##### 📝 Practical Exercise: Deploy your first application using templates
+
