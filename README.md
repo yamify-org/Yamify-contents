@@ -35,3 +35,35 @@ Content histories of Yamify AI Cloud
 - **Overview of active Workspaces, Deployed Apps, and Groups**
 
 
+## 3-Step Onboarding
+
+### Step 1: Create Your First Yam
+
+- **Go to your Workspace**
+- **Click "Create Yam"**
+- **A Yam is your isolated, AI-augmented Kubernetes environment**
+- **Name it and launch**
+- **Your Yam is now live** 🎯
+
+### Step 2: Organize with Groups
+
+- **A Group is auto-created inside your Yam**
+- **Use groups to organize apps by use case:** *e.g., Testing, Production, AI Tools*
+- **Create additional groups with colors and names to suit your team/project structure**
+
+### Step 3: Deploy a Project
+
+- **Inside your Yam, find the “Deploy a Project” button (top right)**
+- **Choose your method:
+-- *Deploy from GitHub*
+-- *Install from Marketplace*
+**Use AI Assistant to auto-detect your project and deploy in seconds**
+
+
+### Example: Deploying WordPress
+
+- **Click on WordPress in the Marketplace**
+- **Fill in details: Admin Name, App Name, Database, Custom Domain, Password**
+- **Hit Deploy – ready in 15 seconds!**
+
+
