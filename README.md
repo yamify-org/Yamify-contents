@@ -14,7 +14,7 @@ Content histories of Yamify AI Cloud
 - **Optionally, create your first Yam immediately**
 - **Launch your Workspace**
 
-## Welcome to Yamify!
+## Welcome to Yamify!🎉
 
 # Workspace Overview
 
@@ -28,7 +28,7 @@ Content histories of Yamify AI Cloud
 ### 2. Top Right Navigation
 
 - **Profile settings, billing, active deployments**
-- **Access your ## AI Assistant ## for help anytime**
+- **Access your AI Assistant for help anytime**
 
 ### 3. Main Workspace Area
 
@@ -54,9 +54,7 @@ Content histories of Yamify AI Cloud
 ### Step 3: Deploy a Project
 
 - **Inside your Yam, find the “Deploy a Project” button (top right)**
-- **Choose your method:
--- *Deploy from GitHub*
--- *Install from Marketplace*
+- **Choose your method:** *1. Deploy from GitHub. 2. Install from Marketplace*
 **Use AI Assistant to auto-detect your project and deploy in seconds**
 
 
@@ -65,5 +63,47 @@ Content histories of Yamify AI Cloud
 - **Click on WordPress in the Marketplace**
 - **Fill in details: Admin Name, App Name, Database, Custom Domain, Password**
 - **Hit Deploy – ready in 15 seconds!**
+
+
+## Signing In (Returning Users)
+
+- **Sign in via Google, GitHub, or Email**
+- **For email login, enter your credentials and verify via code (Authenticator or Email)**
+
+**Welcome back to Yamify** 🚀
+
+
+## What is App Deployment?
+
+Deployment is the process of launching your app from local development to a live, scalable cloud environment.
+
+
+## 1.3 Platform Fundamentals
+
+### Key Terminology
+
+- **Cloud Hosting: Running websites and apps on virtual servers**
+- **AI Tools: Prebuilt ML models, APIs, and AI frameworks**
+- **Deployment: Launching software to the internet or internal teams**
+- **Scaling: Automatically adjusting compute resources based on usage**
+- **Workspaces: Personal or team environments for managing Yams and Projects**
+- **Yams: Isolated Kubernetes clusters optimized by AI**
+- **Groups: Logical collections of deployed projects within a Yam**
+- **Projects: Applications or workflows (e.g., web, backend, AI)**
+- **V-Cluster: A private virtual Kubernetes environment**
+
+
+### Service Categories
+
+- **Cloud Hosting: Linux, Node.js, WordPress, and custom containers**
+- **AI Services: Training models, inference APIs, analytics tools**
+- **CI/CD: Code pipelines for continuous deployment**
+
+
+## Support System
+
+- **Live AI Chat: Located at the top-right corner**
+- **Community: Join Yamify users via WhatsApp or Discord for tips and help**
+
 
 
