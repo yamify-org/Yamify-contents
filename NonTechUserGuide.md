@@ -7,7 +7,7 @@ Welcome to Yamify! If you're not a tech expert but want to create and launch you
 
 #### 🧰 What You’ll Need
 
-- A Yamify account (sign up at yamify.co)
+- A Yamify account (sign up at www.yamify.co)
 - Your yam idea (e.g., a store, a blog, a booking system, etc.)
 - Some basic text and images for your yam (optional but helpful)
 #
@@ -15,34 +15,34 @@ Welcome to Yamify! If you're not a tech expert but want to create and launch you
 #### ✅ Step 1: Sign Up and Log In
 
 1. Visit yamify.co.
-2. Click Sign Up and create your free account.
+2. Click **Sign Up** and create your free account.
 3. After registering, log in using your email and password.
 #
 
 #### 🛠️ Step 2: Start a New Yam
 
-1. From your dashboard, click the “Create New Yam” button.
-2. Choose a template that matches your yam idea (e.g., "Online Store", "Blog", "Portfolio").
+1. From your dashboard, click the **“Create New Yam”** button.
+2. Choose a **template** that matches your yam idea (e.g., "Online Store", "Blog", "Portfolio").
 - 💡 Tip: You can preview each template before selecting.
 #
 
 #### 🎨 Step 3: Customize Your Yam
 
-1. Yam Name: Give your yam a name (e.g., “Healthy Bites”).
-2. Logo: Upload a logo (optional — you can use Yamify’s logo creator too).
-3. Color Scheme: Pick colors that match your brand or vibe.
-4. Pages: Add or remove pages like “Home,” “About,” “Contact,” etc.
-5. Text & Images: Click on each section to edit the content (super easy — like editing a slideshow or Facebook post).
-6. Features: Drag and drop features like forms, buttons, galleries, maps, etc.
+1. **Yam Name**: Give your yam a name (e.g., “Healthy Bites”).
+2. **Logo**: Upload a logo (optional — you can use Yamify’s logo creator too).
+3. **Color Scheme**: Pick colors that match your brand or vibe.
+4. **Pages**: Add or remove pages like “Home,” “About,” “Contact,” etc.
+5. **Text & Images**: Click on each section to edit the content (super easy — like editing a slideshow or Facebook post).
+6. **Features**: Drag and drop features like forms, buttons, galleries, maps, etc.
 #
 
-####🔌 Step 4: Add Yam Functionality (Optional)
+#### 🔌 Step 4: Add Yam Functionality (Optional)
 
 Yamify lets you add powerful features without code!
 
-- Want bookings? Add a calendar widget.
-- Want payments? Add Stripe or PayPal integration.
-- Want chat? Add a chat widget.
+- Want bookings? Add a **calendar widget.**
+- Want payments? Add **Stripe or PayPal** integration.
+- Want chat? Add a **chat widget.**
 
 Everything is modular — you just choose what you need.
 #
