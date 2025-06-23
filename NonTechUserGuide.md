@@ -49,16 +49,16 @@ Everything is modular — you just choose what you need.
 
 #### 🧪 Step 5: Preview Your Yam
 
-1. Click the Preview button at the top right.
+1. Click the **Preview** button at the top right.
 2. Test your yam on both desktop and mobile views.
 3. Check if everything looks and works the way you want.
 #
 
 #### 🚀 Step 6: Deploy Your Yam
 
-1. Once happy with the preview, click “Deploy” or “Launch Yam”.
+1. Once happy with the preview, click **“Deploy” or “Launch Yam”.**
 2. Choose your plan (Yamify offers a free tier and paid options).
-3. Select a subdomain (e.g., myyam.yamify.site) or connect your own custom domain.
+3. Select a subdomain (e.g., myyam.yamify.site ) or connect your own custom domain.
 #
 
 #### 🌍 Your Yam is Live!
@@ -74,10 +74,10 @@ You can return to your yam at any time to:
 - Add new features
 - Change the design
 
-Just log in and click “Edit Yam.”
+Just log in and click **“Edit Yam.”**
 #
 
-####🙋 Need Help?
+#### 🙋 Need Help?
 
 Yamify has:
 - Live chat support
@@ -99,46 +99,46 @@ You’re never alone!
 
 #### Glossary: Common Yamify & Yam Terms
 
-**Yam**
+**Yam:**
 A clauster you create for users to interact with — can be for mobile or web. On Yamify, yams are usually websites or simple web-based tools.
 
-**Dashboard**
+**Dashboard:**
 Your control panel or home screen on Yamify. From here, you manage your yams and settings.
 
-**Template**
+**Template:**
 A pre-designed layout to help you build your yam faster. Think of it like a starting point or blueprint.
 
-**Widget**
+**Widget:**
 A small block of functionality you can add to your yam — like a button, form, map, or image gallery.
 
-**Subdomain**
+**Subdomain:**
 A free address Yamify gives your yam (like youryam.yamify.site). You can use this or connect your own domain (like youryam.co).
 
-**Domain**
+**Domain:**
 The web address (URL) people type to reach your yam. You can buy one or use Yamify’s free version.
 
-**Customize**
+**Customize:**
 To make changes to the design, layout, text, or images so your yam reflects your brand or idea.
 
-**Preview**
+**Preview:**
 A feature that lets you see what your yam will look like before you publish it.
 
-**Deploy / Launch**
+**Deploy / Launch:**
 Making your yam live on the internet so others can see and use it.
 
-**Drag-and-Drop**
+**Drag-and-Drop:**
 A way to move things around by clicking, holding, and dragging — no coding or complex steps required.
 
-**Responsive Design**
+**Responsive Design:**
 Your yam adjusts automatically to look good on mobile phones, tablets, and computers.
 
-**Feature**
+**Feature:**
 A function or tool that adds value to your yam (e.g., contact form, chat box, shopping cart).
 
-**Integration**
+**Integration:**
 Connecting other tools to your yam (e.g., PayPal for payments, Google Maps for location).
 
-**Support**
+**Support:**
 Help provided by Yamify if you get stuck — usually via chat or help articles.
 
 
