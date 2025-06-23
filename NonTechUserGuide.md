@@ -1,6 +1,6 @@
 ### Yamify Non Tech Users - Deploy Your First Yam
 
-## 🌟 Yamify Beginner's Guide: How to Launch Your First App
+## 🌟 Yamify Beginner's Guide: How to Launch Your First Yam
 
 Welcome to Yamify! If you're not a tech expert but want to create and launch your own app, you're in the right place. This guide will walk you through the entire process, step-by-step — no prior coding experience required!
 #
