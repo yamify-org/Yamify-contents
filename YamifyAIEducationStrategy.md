@@ -3,7 +3,7 @@
 *African Sovereign AI/Cloud Platform Learning Path. We host AI apps, health, fintech data in our local datacenters in Africa. We are a google backed startup and partnered with top datacenters in Africa.* -- **Luc Okalobe** *Founder & CEO, Yamify AI Cloud*
 #
 
-Content strategy and curriculum-style approach to educate users, both tech-savvy and non-technical founders, on how to navigate and maximize the YamifyAI platform.
+##### Content strategy and curriculum-style approach to educate users, both tech-savvy and non-technical founders, on how to navigate and maximize the YamifyAI platform.
 #
 
 ## 🎯 Education Strategy Overview
