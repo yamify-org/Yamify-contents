@@ -320,6 +320,4 @@ Empower African tech and non-tech founders with comprehensive knowledge to lever
 - Industry-specific learning paths
 - International expansion preparation
 
-Ready to empower Africa's next generation of AI-powered entrepreneurs! 🚀
-
 
