@@ -130,4 +130,17 @@ Yamify is launching:
 
 - Cloud Credits — Up to $10,000 in GPU credits for startups under 3 years old
 
+We believe in Africa-led innovation, and we’re backing it with code, compute, and capital.
+#
+
+### Final Word
+
+Africa doesn’t need to wait for someone else to solve its problems with AI.
+
+The talent is here. The ideas are ready.
+All that’s missing is acceleration.
+
+*“In the age of AI, the builders who ship fast will win. And Yamify is giving them the runway.”*
+— **Luc Okalobe, Founder, Yamify**
+
 
