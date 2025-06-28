@@ -23,3 +23,8 @@ And that number has real-world implications.
 - Many are priced out of services like AWS, Azure, or Google Cloud, where usage-based billing and exchange rate volatility inflate costs by up to 300%.
 
 - Even basic LLM fine-tuning can cost upwards of $10,000/month, placing it out of reach for bootstrapped or seed-stage companies.
+
+Meanwhile, developers are innovating regardless—training on laptops, using Colab, or “hacking” distributed inference on underpowered cloud instances. This is a testament to talent—but also a warning sign.
+
+- Without accessible infrastructure, Africa risks becoming a passive consumer of AI—not an active creator.
+#
