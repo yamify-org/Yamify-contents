@@ -108,3 +108,14 @@ This means less DevOps fatigue and faster product iteration.
 
 Africa has done this before.
 
+- Mobile money leapfrogged traditional banking (e.g., M-Pesa)
+
+- Ride-hailing in Lagos & Nairobi evolved independently of Uber’s core model
+
+- Telehealth is already becoming standard in rural East Africa
+
+*“Africa’s startups are not constrained by legacy systems. That’s why they can move faster with the right tools.”*
+— **Ifedayo O., Angel investor & founder, AfriBuild Capital**
+#
+
+
