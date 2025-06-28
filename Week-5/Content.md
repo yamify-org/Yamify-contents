@@ -50,4 +50,27 @@ By 2023, China had shipped over 4 million domestically produced AI chips, enabli
 
 ### A Homegrown Cloud for African AI Builders
 
+At Yamify, we’re not waiting for someone else to solve this.
 
+We're already partnering with regional data centers in Nigeria, South Africa, and The Congo to roll out GPU-native infrastructure built specifically for African AI workloads.
+
+What this looks like:
+
+- NVIDIA A100 & H100-class GPU clusters with Kubernetes orchestration
+
+- Optimized AI containers pre-loaded with PyTorch, TensorFlow, MLflow, and Hugging Face
+
+- Low-latency endpoints for inference tasks in fintech, edtech, and agritech
+
+- Cost reductions of up to 60% compared to AWS, due to local hosting and billing in local currency
+
+This isn’t theoretical—we’re already powering 13 pilot companies, including YC-backed fintechs and AI dev teams building chatbots in Swahili, crop disease detectors, and credit scoring engines.
+#
+
+### Why This Matters: Infrastructure as Economic Strategy
+
+Most governments think of cloud as a tech issue. But it's much more than that.
+
+#### Here’s why infrastructure is economic strategy: 
+
+- AI startups scale faster when compute is accessible and predictable
