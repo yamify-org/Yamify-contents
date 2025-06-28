@@ -22,3 +22,18 @@ Yamify’s approach focuses on:
 - Localized Learning: Courses delivered in Swahili, Yoruba, and Hausa, making AI accessible to more learners.
 
 - Problem-Driven Curriculum: From using NLP to combat misinformation to building ML models for crop disease prediction, students solve real African challenges.
+#
+
+### Why Infrastructure Is the Missing Link
+
+Training without infrastructure is like teaching someone to drive without giving them a car.
+
+Building and deploying AI models requires high-performance compute, reliable internet, and cloud environments optimized for AI workloads. But Africa only accounts for 0.29% of global cloud capacity (6Wresearch, 2023). Most developers pay up to 300% more using AWS or Google Cloud due to currency exchange rates and international billing barriers.
+
+Yamify’s AI-native cloud platform solves this:
+
+- GPU Compute at Local Rates: Our infrastructure reduces costs by up to 60% compared to US-based clouds.
+
+- Data Centers in Africa: With our facilities in Nigeria, the DRC, and South Africa, we bring compute closer to developers—reducing latency and keeping data sovereign.
+
+- Optimized for Local Use Cases: Developers can run models tailored to African dialects, datasets, and connectivity constraints.
