@@ -85,3 +85,8 @@ We’ve deployed GPU-powered infrastructure across local data centers in:
 - Johannesburg
 
 - Kinshasa 
+
+This slashes model training time by up to 60%, reduces costs, and ensures data residency compliance.
+#
+
+🔄 **Built-in CI/CD for AI**
