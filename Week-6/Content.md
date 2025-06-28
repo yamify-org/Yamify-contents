@@ -116,6 +116,18 @@ Africa has done this before.
 
 *“Africa’s startups are not constrained by legacy systems. That’s why they can move faster with the right tools.”*
 — **Ifedayo O., Angel investor & founder, AfriBuild Capital**
+
+With AI, the same leap is possible—but only if we accelerate access to training, deployment, and iteration.
 #
+
+### What’s Next: AI Hackathons + Community Accelerator
+
+Yamify is launching:
+
+- AI Build Sprints — 48-hour live events to build working AI apps with Yamify APIs
+
+- Yamify Labs Accelerator — A 10-week program for early-stage African AI startups to ship a usable product with technical and infra support
+
+- Cloud Credits — Up to $10,000 in GPU credits for startups under 3 years old
 
 
