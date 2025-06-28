@@ -28,3 +28,9 @@ Meanwhile, developers are innovating regardless—training on laptops, using Col
 
 - Without accessible infrastructure, Africa risks becoming a passive consumer of AI—not an active creator.
 #
+
+### What China Did When Cut Off from AI Hardware
+
+There is a precedent for this dilemma.
+
+In 2022, the U.S. placed heavy restrictions on China’s access to advanced GPUs from NVIDIA and AMD, citing concerns about AI militarization. In response, China didn’t wait. It built its own GPU industry.
