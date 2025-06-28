@@ -9,7 +9,7 @@ Africa stands at a pivotal moment in the global AI revolution. With 70% of its p
 At Yamify, we’re bridging the gap—training builders and providing them with the tools to create.
 #
 
-#### Why AI Education Must Be Immersive and Local
+### Why AI Education Must Be Immersive and Local
 
 Africa’s developer ecosystem is growing fast. According to Google’s Africa Developer Report (2022), the number of professional developers on the continent surpassed 716,000, with Nigeria, Egypt, and Kenya leading.
 
@@ -37,3 +37,23 @@ Yamify’s AI-native cloud platform solves this:
 - Data Centers in Africa: With our facilities in Nigeria, the DRC, and South Africa, we bring compute closer to developers—reducing latency and keeping data sovereign.
 
 - Optimized for Local Use Cases: Developers can run models tailored to African dialects, datasets, and connectivity constraints.
+#
+
+### Education + Infrastructure = Acceleration
+
+What happens when you empower learners and equip them with infrastructure?
+
+They build fast. This is the flywheel: Skilled talent → AI products → Scalable deployment → Market innovation.
+#
+
+### A Call to Action
+
+Africa’s AI revolution is not a future—it’s happening now. But it won’t be driven by imported models or foreign cloud vendors. It will be built by African developers, trained on African soil, building for African challenges.
+
+At Yamify, we’re not just teaching AI or provisioning GPUs—we’re building an AI-native ecosystem. One that empowers, educates, and accelerates.
+
+We invite governments, universities, startups, and investors to partner with us.
+
+Let’s build Africa’s AI future—together.
+#
+
