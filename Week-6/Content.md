@@ -53,3 +53,8 @@ Yamify’s infrastructure is designed to eliminate bottlenecks at every step. Ou
 Launch working prototypes without writing full ML pipelines. Perfect for founders validating ideas.
 
 Pre-built templates for:
+
+- Sentiment analysis
+- Image classification
+- Chatbots & virtual agents
+- Recommendation engines
