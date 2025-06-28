@@ -63,3 +63,14 @@ Pre-built templates for:
 — **Ama B., Founder of an HRTech startup in Ghana**
 #
 
+⚙️ **Pre-built APIs for Core AI Use Cases**
+
+- Vision: Object detection, face recognition, OCR
+
+- NLP: Summarization, translation, sentiment
+
+- Analytics: Forecasting, anomaly detection
+
+Each API runs on Yamify’s local GPU clusters—meaning low latency, fast inference, and no outbound data fees.
+#
+
