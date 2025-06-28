@@ -80,3 +80,9 @@ Most governments think of cloud as a tech issue. But it's much more than that.
 - Education pipelines improve when students train models on real infrastructure instead of just theory
 
 - GDP increases: McKinsey estimates AI could add $1.2 trillion to Africa’s economy by 2030—but only if the foundational infrastructure is in place
+
+Right now, the continent’s most talented AI devs are being priced out of building. We’re essentially gatekeeping the future through infrastructure scarcity.
+#
+
+#### Looking Forward: AI Infrastructure That Scales Itself
+
