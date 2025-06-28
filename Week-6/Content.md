@@ -101,3 +101,10 @@ Push updates to your AI app like any modern SaaS company:
 
 - Canary testing & rollback options
 
+This means less DevOps fatigue and faster product iteration.
+#
+
+### Africa’s Advantage: Leapfrogging with AI
+
+Africa has done this before.
+
