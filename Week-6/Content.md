@@ -74,3 +74,14 @@ Pre-built templates for:
 Each API runs on Yamify’s local GPU clusters—meaning low latency, fast inference, and no outbound data fees.
 #
 
+🚀 **GPU-Native Compute on African Soil**
+
+We’ve deployed GPU-powered infrastructure across local data centers in:
+
+- Lagos
+
+- Nairobi
+
+- Johannesburg
+
+- Kinshasa 
