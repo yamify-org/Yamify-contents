@@ -44,3 +44,7 @@ Companies like:
 - Cambricon – a key AI chip designer now integrated into Huawei’s ecosystem
 
 By 2023, China had shipped over 4 million domestically produced AI chips, enabling everything from autonomous vehicles to language models—without NVIDIA.
+
+*What if Africa took a page from this playbook?*
+
+### A Homegrown Cloud for African AI Builders
