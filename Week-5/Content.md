@@ -71,6 +71,12 @@ This isn’t theoretical—we’re already powering 13 pilot companies, includin
 
 Most governments think of cloud as a tech issue. But it's much more than that.
 
-#### Here’s why infrastructure is economic strategy: 
+##### Here’s why infrastructure is economic strategy: 
 
 - AI startups scale faster when compute is accessible and predictable
+
+- Cloud-native devs build for the edge, creating AI-powered services in healthcare, logistics, and energy
+
+- Education pipelines improve when students train models on real infrastructure instead of just theory
+
+- GDP increases: McKinsey estimates AI could add $1.2 trillion to Africa’s economy by 2030—but only if the foundational infrastructure is in place
