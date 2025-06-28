@@ -34,3 +34,13 @@ Meanwhile, developers are innovating regardless—training on laptops, using Col
 There is a precedent for this dilemma.
 
 In 2022, the U.S. placed heavy restrictions on China’s access to advanced GPUs from NVIDIA and AMD, citing concerns about AI militarization. In response, China didn’t wait. It built its own GPU industry.
+
+Companies like:
+
+- Biren Technology – built the BR100, a chip rivaling NVIDIA’s A100 in FP32 performance
+
+- Moore Threads – developed domestic GPUs optimized for gaming, AI, and general compute
+
+- Cambricon – a key AI chip designer now integrated into Huawei’s ecosystem
+
+By 2023, China had shipped over 4 million domestically produced AI chips, enabling everything from autonomous vehicles to language models—without NVIDIA.
