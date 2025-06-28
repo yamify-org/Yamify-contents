@@ -106,5 +106,12 @@ And we don’t have to.
 *"You cannot leapfrog without a launchpad. Infrastructure is that launchpad."*
 — **Luc Okalobe**
 
+With cloud designed by Africans for Africa, AI developers won’t just learn or deploy—they’ll lead.
+
+Let’s stop renting innovation.
+Let’s start owning the stack.
+
+
+
 
 
