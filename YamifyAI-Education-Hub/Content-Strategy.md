@@ -1,0 +1,2 @@
+##### Goal:
+Educate African users
