@@ -58,3 +58,8 @@ Pre-built templates for:
 - Image classification
 - Chatbots & virtual agents
 - Recommendation engines
+
+*“We built our MVP without a dedicated ML team—just using Yamify’s templates and APIs.”*
+— **Ama B., Founder of an HRTech startup in Ghana**
+#
+
