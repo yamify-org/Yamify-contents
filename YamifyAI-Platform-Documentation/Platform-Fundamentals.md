@@ -1,4 +1,4 @@
-##📚 Platform Fundamentals
+## 📚 Platform Fundamentals
 
 ### Key Terminology
 
@@ -15,18 +15,24 @@
 
 #### YamifyAI-Specific Terms
 
-🏢 Workspace Your personal or organizational environment within YamifyAI where you can manage projects, teams, and resources.
-Workspace Structure:
+🏢 **Workspace:** Your personal or organizational environment within YamifyAI where you can manage projects, teams, and resources.
+
+**Workspace Structure:**
+
 ├── Personal Workspace (individual projects)
 ├── Team Workspace (collaborative projects)
 └── Organization Workspace (company-wide resources)
 
-🍠 Yams Individual application instances or services running on the YamifyAI platform. Each Yam represents a deployed application with its own resources and configuration.
-Example Yams:
-my-wordpress (WordPress blog)
-dev-environment (VS Code server)
-automation-hub (n8n workflow)
+🍠 **Yams:** Individual application instances or services running on the YamifyAI platform. Each Yam represents a deployed application with its own resources and configuration.
+
+**Example of Yams:**
+
+- my-wordpress (WordPress blog)
+- dev-environment (VS Code server)
+- automation-hub (n8n workflow)
+
 👥 Groups Collections of related Yams that can be managed together, useful for organizing applications by project, environment, or team.
+
 Example Group Structure:
 📁 E-commerce Project
 ├── 🍠 frontend-yam (React app)
