@@ -52,3 +52,35 @@ Follow these simple steps to join the YamifyAI platform:
 - Description: Switch between different workspaces
 - Key Features: Personal, Team, Organization views
 #
+
+### Profile Configuration
+
+#### Setting up your organization for success:
+
+🏢 **Organization Setup**
+
+1. Basic Information
+
+- Organization name
+- Industry type
+- Team size
+- Primary use case (Development, Production, Learning)
+
+2. Technical Preferences
+
+- Default region (Lagos, Cape Town, Nairobi)
+- Preferred deployment method
+- Notification settings
+
+3. Team Management
+
+- Invite team members
+- Set permissions and roles
+- Configure collaboration settings
+
+👥 **User Roles & Permissions**
+
+- Owner: Full platform access and billing control
+- Admin: Deploy and manage all resources
+- Developer: Create and deploy applications
+- Viewer: Read-only access to projects
