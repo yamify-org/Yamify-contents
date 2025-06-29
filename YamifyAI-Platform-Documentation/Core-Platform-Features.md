@@ -31,13 +31,13 @@ Upload Code → Select Template → One-Click Deploy → Live Application
 
  Popular Options:
 
-✅ WordPress (Blog/Website)
+- ✅ WordPress (Blog/Website)
 
-✅ VS Code Server (Development Environment)
+- ✅ VS Code Server (Development Environment)
 
-✅ n8n (Automation Platform)
+- ✅ n8n (Automation Platform)
 
-✅ Custom Application (Your own code)
+- ✅ Custom Application (Your own code)
 #
 
 #### 1. Configure Basic Settings
