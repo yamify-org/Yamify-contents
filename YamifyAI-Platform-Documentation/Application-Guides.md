@@ -4,7 +4,7 @@
 
 #### Cloud-Based Development Environment
 
-**What is VS Code Server?:* A web-based version of Visual Studio Code that runs in your browser, providing a full development environment accessible from anywhere.
+**What is VS Code Server?:** A web-based version of Visual Studio Code that runs in your browser, providing a full development environment accessible from anywhere.
 
 #### 🔧How to Deploy VS Code Server
 
@@ -12,15 +12,14 @@
    - Login to YamifyAI platform
    - Click "Quick Deploy"
    - Select "VS Code Server"
-   - Configuration
 
- Name: my-dev-environment
-Resources: 
-  CPU: 2 cores
-  Memory: 4GB RAM
-  Storage: 20GB SSD
-Access: Password protected
-Extensions: Auto-install popular extensions
+- Configuration
+   - Name: my-dev-environment
+   - CPU: 2 cores
+   - Memory: 4GB RAM
+   - Storage: 20GB SSD
+   - Access: Password protected
+   - Extensions: Auto-install popular extensions
 
 
 Deployment
