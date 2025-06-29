@@ -84,3 +84,37 @@ Follow these simple steps to join the YamifyAI platform:
 - Admin: Deploy and manage all resources
 - Developer: Create and deploy applications
 - Viewer: Read-only access to projects
+#
+
+### Billing & Pricing
+
+#### Understanding YamifyAI's affordable pricing:
+
+💰 **Pricing Tiers**
+
+- Tier: Starter
+- Price (USD/month): $0
+- Features: 1 Yam, 1GB RAM, 10GB Storage
+- Best For: Learning & Testing
+#
+- Tier: Developer
+- Price (USD/month): $15
+- Features: 5 Yams, 4GB RAM, 50GB Storage
+- Best For: Individual Developers
+#
+- Tier: Team
+- Price (USD/month): $49
+- Features: 20 Yams, 16GB RAM, 200GB Storage
+- Best For: Small Teams
+#
+- Tier: Business
+- Price (USD/month): $149
+- Features: Unlimited Yams, 64GB RAM, 1TB Storage
+- Best For: Growing Companies
+#
+📊 **Usage-Based Pricing**
+Compute: $0.02 per CPU hour
+Storage: $0.10 per GB per month
+Data Transfer: $0.05 per GB
+AI Services: $0.001 per API call
+💡 African Advantage: All prices are 40% lower than international competitors, with payments in local currencies supported.
