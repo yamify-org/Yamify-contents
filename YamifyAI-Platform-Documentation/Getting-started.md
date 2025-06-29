@@ -24,4 +24,30 @@ Follow these simple steps to join the YamifyAI platform:
 - Return to platform to complete setup
 
 💡 Pro Tip: Use a business email address for better account management and team collaboration features.
+#
+
+### Dashboard Overview
+
+#### Understanding your YamifyAI interface:
+
+📊 **Main Dashboard Elements**
+
+- Section: Navigation Bar
+   - Description: Top menu with main platform sections Projects, Yams, Clusters, Billing
+
+Key Features
+Navigation Bar
+
+Quick Actions
+Fast deployment options
+One-Click Deploy, Create New Yam
+Resource Overview
+Current usage and limits
+CPU, Memory, Storage metrics
+Activity Feed
+Recent deployments and updates
+Deployment logs, system notifications
+Workspace Selector
+Switch between different workspaces
+Personal, Team, Organization views
 
