@@ -1,6 +1,6 @@
 ## 🚀 Getting Started
 
-### 1.2 Account Setup & Navigation
+### 1.1 Account Setup & Navigation
 
 #### Creating Your Account
 
