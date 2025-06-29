@@ -33,21 +33,22 @@ Follow these simple steps to join the YamifyAI platform:
 📊 **Main Dashboard Elements**
 
 - Section: Navigation Bar
-   - Description: Top menu with main platform sections Projects, Yams, Clusters, Billing
-
-Key Features
-Navigation Bar
-
-Quick Actions
-Fast deployment options
-One-Click Deploy, Create New Yam
-Resource Overview
-Current usage and limits
-CPU, Memory, Storage metrics
-Activity Feed
-Recent deployments and updates
-Deployment logs, system notifications
-Workspace Selector
-Switch between different workspaces
-Personal, Team, Organization views
-
+   - Description: Top menu with main platform sections 
+   - Key Features: Projects, Yams, Clusters, Billing
+#
+- Section: Quick Actions
+   - Description: Fast deployment options
+   - Key Features: One-Click Deploy, Create New Yam
+#
+- Section: Resource Overview
+   - Description: Current usage and limits
+   - Key Features: CPU, Memory, Storage metrics
+#
+- Section: Activity Feed
+   - Description: Recent deployments and updates
+   - Key Features: Deployment logs, system notifications
+#
+- Section: Workspace Selector
+   - Description: Switch between different workspaces
+   - Key Features: Personal, Team, Organization views
+#
