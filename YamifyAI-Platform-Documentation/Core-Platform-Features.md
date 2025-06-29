@@ -31,32 +31,34 @@ Upload Code → Select Template → One-Click Deploy → Live Application
 
  Popular Options:
 
-- ✅ WordPress (Blog/Website)
-- ✅ VS Code Server (Development Environment)
-- ✅ n8n (Automation Platform)
-- ✅ Custom Application (Your own code)
+✅ WordPress (Blog/Website)
+✅ VS Code Server (Development Environment)
+✅ n8n (Automation Platform)
+✅ Custom Application (Your own code)
 #
 
-#### Configure Basic Settings
+#### 1. Configure Basic Settings
 
  - Application name
  - Subdomain (yourapp.yamifyai.com)
  - Resource allocation
  - Environment variables
- - Click Deploy
 
-System automatically provisions resources
-Installs required dependencies
-Configures networking and security
-Sets up monitoring
-Access Your Application
+#### 2. Click Deploy
 
+ - System automatically provisions resources
+ - Installs required dependencies
+ - Configures networking and security
+ - Sets up monitoring
 
-Receive deployment confirmation
-Get access URL and credentials
-Start using your application immediately
-⏱️ Deployment Timeline
-WordPress: 2-3 minutes
-VS Code Server: 1-2 minutes
-n8n: 3-4 minutes
-Custom Apps: 5-10 minutes (depending on complexity)
+#### 3. Access Your Application
+
+ - Receive deployment confirmation
+ - Get access URL and credentials
+ - Start using your application immediately
+
+#### ⏱️ Deployment Timeline
+- WordPress: 2-3 minutes
+- VS Code Server: 1-2 minutes
+- n8n: 3-4 minutes
+- Custom Apps: 5-10 minutes (depending on complexity)
