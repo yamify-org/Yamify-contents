@@ -113,8 +113,10 @@ Follow these simple steps to join the YamifyAI platform:
 - Best For: Growing Companies
 #
 📊 **Usage-Based Pricing**
-Compute: $0.02 per CPU hour
-Storage: $0.10 per GB per month
-Data Transfer: $0.05 per GB
-AI Services: $0.001 per API call
-💡 African Advantage: All prices are 40% lower than international competitors, with payments in local currencies supported.
+
+- Compute: $0.02 per CPU hour
+- Storage: $0.10 per GB per month
+- Data Transfer: $0.05 per GB
+- AI Services: $0.001 per API call
+
+💡**African Advantage:** All prices are 40% lower than international competitors, with payments in local currencies supported.
