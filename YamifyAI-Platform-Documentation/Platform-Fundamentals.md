@@ -19,9 +19,9 @@
 
 **Workspace Structure:**
 
-├── Personal Workspace (individual projects)
-├── Team Workspace (collaborative projects)
-└── Organization Workspace (company-wide resources)
+- ├── Personal Workspace (individual projects)
+- ├── Team Workspace (collaborative projects)
+- └── Organization Workspace (company-wide resources)
 
 🍠 **Yams:** Individual application instances or services running on the YamifyAI platform. Each Yam represents a deployed application with its own resources and configuration.
 
@@ -36,9 +36,9 @@
 **Example of Group Structure:**
 
 📁 E-commerce Project
-├── 🍠 frontend-yam (React app)
-├── 🍠 backend-yam (Node.js API)
-└── 🍠 database-yam (PostgreSQL)
+- ├── 🍠 frontend-yam (React app)
+- ├── 🍠 backend-yam (Node.js API)
+- └── 🍠 database-yam (PostgreSQL)
 
 📋 **Projects:** Higher-level containers that group related Yams and resources for a specific business objective or application.
 
