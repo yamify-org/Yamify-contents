@@ -25,7 +25,7 @@ Upload Code → Select Template → One-Click Deploy → Live Application
 
 #### Simplified Process Walkthrough
 
-🚀 #### How One-Click Deployment Works
+#### 🚀How One-Click Deployment Works
 
 **Choose Your Application Type**
 
