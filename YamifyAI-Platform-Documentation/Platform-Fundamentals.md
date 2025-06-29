@@ -31,13 +31,16 @@
 - dev-environment (VS Code server)
 - automation-hub (n8n workflow)
 
-👥 Groups Collections of related Yams that can be managed together, useful for organizing applications by project, environment, or team.
+👥 **Groups:** Collections of related Yams that can be managed together, useful for organizing applications by project, environment, or team.
 
-Example Group Structure:
+**Example of Group Structure:**
+
 📁 E-commerce Project
 ├── 🍠 frontend-yam (React app)
 ├── 🍠 backend-yam (Node.js API)
 └── 🍠 database-yam (PostgreSQL)
 
-📋 Projects Higher-level containers that group related Yams and resources for a specific business objective or application.
-🏗️ V-Cluster (Virtual Cluster) Isolated virtual environments within the YamifyAI infrastructure that provide dedicated resources and enhanced security for enterprise applications.
+📋 **Projects:** Higher-level containers that group related Yams and resources for a specific business objective or application.
+
+🏗️ **V-Cluster:** (Virtual Cluster) Isolated virtual environments within the YamifyAI infrastructure that provide dedicated resources and enhanced security for enterprise applications.
+#
