@@ -1,6 +1,6 @@
 # Yamify User Personas
 
-Informed by your focus on early-stage startups, freelancers, and SMEs across key African regions (Nigeria, South Africa, DR Congo, Côte d’Ivoire, Senegal, Benin), here are three representative personas who would find Yamify’s value proposition compelling. Each persona highlights the specific needs and challenges that Yamify addresses, ensuring they experience the platform’s core benefits and become activated users.
+Informed by Yamify focus on early-stage startups, freelancers, and SMEs across key African regions (Nigeria, South Africa, DR Congo, Côte d’Ivoire, Senegal, Benin), here are three representative personas who would find Yamify’s value proposition compelling. Each persona highlights the specific needs and challenges that Yamify addresses, ensuring they experience the platform’s core benefits and become activated users.
 #
 
 ### Persona 1: 
