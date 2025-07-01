@@ -5,42 +5,37 @@ Informed by your focus on early-stage startups, freelancers, and SMEs across key
 
 ### Persona 1: 
  
-**Ada – AI Startup Founder (Lagos, Nigeria)**
+#### Ada – AI Startup Founder (Lagos, Nigeria)
 
-##### Profile: 
+#### Profile: 
 
 Ada is a 29-year-old co-founder and CTO of a Lagos-based fintech startup building an AI-driven fraud detection platform. Her small team is technical but resource-constrained, working under tight budgets and a need to launch quickly.
 
-##### Needs & Pain Points:
+#### Needs & Pain Points:
 
 - Affordable GPU Computing: Training machine learning models on global cloud platforms is prohibitively expensive for Ada’s startup – African customers often end up paying up to 3× more on services like AWS due to exchange rates and billing barriers . She needs high-performance GPU power at locally affordable rates to develop and refine her fraud detection models without blowing the budget.
 
-
 - Local Data Residency & Low Latency: Handling sensitive financial data means Ada must comply with local data regulations and assure clients their data stays within Nigeria’s borders. She’s also concerned about latency and reliability; routing data to far-off servers causes slow responses and potential privacy issues. A local infrastructure is crucial for data sovereignty and fast, reliable service.
-
 
 - Fast Deployment Without DevOps Overhead: As a lean early-stage startup, Ada’s team has no dedicated DevOps engineer. They require easy-to-deploy AI tools so they can go from prototype to production quickly. Ada is looking for pre-configured AI apps or environments that “just work” without spending days on setup, allowing her team to focus on product features rather than cloud configuration.
 #
 
 ### Yamify Value:
 
-##### Cost-Effective GPU Infrastructure: Yamify provides GPU compute power at local prices, cutting Ada’s cloud costs dramatically (up to 60% cheaper than US-based clouds ). This means her startup can train and run machine learning models within budget, removing the cost barrier that previously slowed their progress.
+- Cost-Effective GPU Infrastructure: Yamify provides GPU compute power at local prices, cutting Ada’s cloud costs dramatically (up to 60% cheaper than US-based clouds ). This means her startup can train and run machine learning models within budget, removing the cost barrier that previously slowed their progress.
 
+- Local Data Centers for Compliance: With data centers in Africa (including one in Nigeria), Yamify keeps Ada’s data local, ensuring compliance with Nigeria’s data privacy requirements and keeping latency low . Ada can assure investors and clients that user data never leaves the region, while also benefiting from quicker model responses for her app’s users.
 
-##### Local Data Centers for Compliance: With data centers in Africa (including one in Nigeria), Yamify keeps Ada’s data local, ensuring compliance with Nigeria’s data privacy requirements and keeping latency low . Ada can assure investors and clients that user data never leaves the region, while also benefiting from quicker model responses for her app’s users.
+- Curated AI App Marketplace: Yamify’s marketplace of ready-to-deploy AI applications lets Ada quickly spin up tools like fraud detection models, analytics dashboards, or NLP services without deep expertise in each. For example, instead of building a credit-risk model from scratch, she can deploy a pre-trained model from the marketplace and fine-tune it – saving time and effort for her small team. This ease of deployment is critical to get her product to market faster.
 
-
-##### Curated AI App Marketplace: Yamify’s marketplace of ready-to-deploy AI applications lets Ada quickly spin up tools like fraud detection models, analytics dashboards, or NLP services without deep expertise in each. For example, instead of building a credit-risk model from scratch, she can deploy a pre-trained model from the marketplace and fine-tune it – saving time and effort for her small team. This ease of deployment is critical to get her product to market faster.
-
-
-##### Developer-Friendly Integration: Yamify is built with developers in mind – Ada can connect to the platform via familiar tools (using kubeconfig to access her cloud environment). Each project can run in an isolated vCluster, so her team manages cloud resources with the say me Kubernetes workflows they already use. This DevOps-ready approach means Ada’s team doesn’t need to learn a new proprietary system; they plug Yamify into their existing pipeline, boosting productivity and confidence in managing their infrastructure.
+- Developer-Friendly Integration: Yamify is built with developers in mind – Ada can connect to the platform via familiar tools (using kubeconfig to access her cloud environment). Each project can run in an isolated vCluster, so her team manages cloud resources with the say me Kubernetes workflows they already use. This DevOps-ready approach means Ada’s team doesn’t need to learn a new proprietary system; they plug Yamify into their existing pipeline, boosting productivity and confidence in managing their infrastructure.
 #
 
 ### Persona 2: 
 
-**Kagiso – Freelance ML Engineer (Cape Town, South Africa)**
+#### Kagiso – Freelance ML Engineer (Cape Town, South Africa)
 
-##### Profile: 
+#### Profile: 
 
 Kagiso is a  thirtysomething freelance machine learning engineer based in Cape Town. He consults for several small businesses and startups across Africa, building custom AI solutions (from data analytics to computer vision) on a project-by-project basis. As a one-person business, he wears multiple hats – handling development, deployment, and sometimes even client training.
 
@@ -65,16 +60,17 @@ Kagiso is a  thirtysomething freelance machine learning engineer based in Cape T
 
 ### Persona 3: 
 
-Nadine – IT Manager at Retail SME (Kinshasa, DR Congo)
-Profile: Nadine is the IT Manager for a mid-sized retail company in Kinshasa. Her company runs a chain of stores and has started a digital initiative to use AI for inventory management and customer analytics. Nadine’s role is to introduce new tech solutions despite a small IT team and a limited budget for experimentation. She has a background in general IT and basic programming, but her team has little experience with deploying AI systems.
+#### Nadine – IT Manager at Retail SME (Kinshasa, DR Congo)
+
+#### Profile: 
+
+Nadine is the IT Manager for a mid-sized retail company in Kinshasa. Her company runs a chain of stores and has started a digital initiative to use AI for inventory management and customer analytics. Nadine’s role is to introduce new tech solutions despite a small IT team and a limited budget for experimentation. She has a background in general IT and basic programming, but her team has little experience with deploying AI systems.
 
 #### Needs & Pain Points:
 
 - AI Solutions Without Heavy Expertise: Nadine’s company wants to leverage AI (for example, using a vision AI to track stock on shelves, or an analytics model to predict product demand) but lacks in-house data scientists. Outsourcing development is costly, so Nadine needs easy-to-deploy AI applications or services that her existing team can manage. Essentially, plug-and-play AI tools that integrate with their systems would accelerate their digital transformation.
 
-
 - Local Compliance & Connectivity: Operating in DRC, Nadine is mindful of data governance. Customer and sales data should ideally be stored locally due to privacy concerns and to avoid reliance on unstable international connectivity. Using overseas cloud services has previously caused issues — high latency and downtime during network interruptions. She needs an infrastructure that keeps data in-country (or at least on the African continent) and provides reliable performance in a low-bandwidth environment.
-
 
 - Integration with Existing IT Infrastructure: Nadine’s team has started using containerized applications on a small on-premises server and is familiar with tools like Docker and basic Kubernetes (they plan to scale up their use of cloud in the future). Any new platform must work with their current workflows and tools so her team can adopt it without extensive retraining. A solution that can bridge their on-prem setup with cloud resources seamlessly would be ideal.
 #
@@ -82,7 +78,6 @@ Profile: Nadine is the IT Manager for a mid-sized retail company in Kinshasa. He
 ### Yamify Value:
 
 - Ready-Made AI App Marketplace: Yamify offers Nadine a catalog of AI applications (from inventory optimization models to computer vision apps) that can be deployed in a few clicks. For example, to pilot an inventory monitoring system, Nadine selects a pre-built object detection app from the marketplace that tracks stock levels via store camera feeds. This saves her from hiring a specialist or spending months developing a solution from scratch – her small IT team can deploy and test the AI tool immediately. The ease of deployment empowers her non-expert team to implement AI projects and show quick wins, which helps in getting management buy-in for further AI investments.
-
 
 - Sovereign Cloud & Reliability: By using Yamify’s infrastructure in Africa (including a regional data center that serves DRC), Nadine ensures all their retail data and AI applications are hosted nearby. Data stays under African jurisdiction, addressing any compliance concerns. Moreover, local hosting means lower latency for their store applications – inventory scanners and POS systems that interact with the AI models get faster responses. Even if the international internet link is slow or drops, the stores can still connect to the cloud services regionally, improving reliability of their digital operations.
 
