@@ -1,8 +1,14 @@
-Yamify User Personas
+# Yamify User Personas
+
 Informed by your focus on early-stage startups, freelancers, and SMEs across key African regions (Nigeria, South Africa, DR Congo, Côte d’Ivoire, Senegal, Benin), here are three representative personas who would find Yamify’s value proposition compelling. Each persona highlights the specific needs and challenges that Yamify addresses, ensuring they experience the platform’s core benefits and become activated users.
-Persona 1: 
-Ada – AI Startup Founder (Lagos, Nigeria)
+#
+
+### Persona 1: 
+ 
+**Ada – AI Startup Founder (Lagos, Nigeria)**
+
 Profile: Ada is a 29-year-old co-founder and CTO of a Lagos-based fintech startup building an AI-driven fraud detection platform. Her small team is technical but resource-constrained, working under tight budgets and a need to launch quickly.
+
 Needs & Pain Points:
 Affordable GPU Computing: Training machine learning models on global cloud platforms is prohibitively expensive for Ada’s startup – African customers often end up paying up to 3× more on services like AWS due to exchange rates and billing barriers . She needs high-performance GPU power at locally affordable rates to develop and refine her fraud detection models without blowing the budget.
 
