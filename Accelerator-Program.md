@@ -82,11 +82,15 @@ The program combines equity-free funding, cloud credits, mentorship, product sup
 
 - **Week 9-10:** 
 
-   - Theme: Go-to-Market & Monetization
-   - Focus:
-		
-9–10	Demo Readiness	Pitch building, storytelling, technical polish
-11	Public Demo Day	Present to investors, partners, media
+   - Theme: Demo Readiness
+   - Focus: Pitch building, storytelling, technical polish
+
+- **Week 11:** 
+
+   - Theme: Public Demo Day
+   - Focus: Present to investors, partners, media
+
+
 12	Graduation + Yamify Circle	Long-term founder support begins
 
 
