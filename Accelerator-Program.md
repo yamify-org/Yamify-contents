@@ -53,11 +53,18 @@ The program combines equity-free funding, cloud credits, mentorship, product sup
 
 ---
 
-🗓️ Program Timeline (Example for 12 Weeks)
+🗓️ **Program Timeline (Example for 12 Weeks)**
 
-Week	Theme	Focus
+- **Week 1**
 
-1	Orientation	Onboarding, ecosystem overview, community building
+   - Theme:	Orientation
+   - Focus: Onboarding, ecosystem overview, community building
+
+- **Week 2** 
+
+   - Theme:	Orientation
+   - Focus:
+
 2–3	Product Discovery	Problem validation, market research, product design
 4–5	Tech Deep Dive	AI integration, automation with n8n, cloud infrastructure on Yamify
 6	Mentorship Sprint	1:1s with product, tech, and business mentors
