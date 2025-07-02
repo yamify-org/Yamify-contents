@@ -90,20 +90,20 @@ The program combines equity-free funding, cloud credits, mentorship, product sup
    - Theme: Public Demo Day
    - Focus: Present to investors, partners, media
 
+- **Week 12:** 
 
-12	Graduation + Yamify Circle	Long-term founder support begins
-
-
+   - Theme: Graduation + Yamify Circle
+   - Focus: Long-term founder support begins
 
 ---
 
-📝 How to Apply
+📝 **How to Apply**
 
-Applications open: [Insert date]
+Applications open: 
 
-Deadline: [Insert date]
+Deadline:
 
-Apply at www.yamify.xyz/launchpad
+Apply at www.yamify.co/launchpad
 
 Requirements: Pitch deck, team profile, 2-min intro video (optional)
 
