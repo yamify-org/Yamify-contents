@@ -1,12 +1,14 @@
 ## Accelerator Program Proposal -  Yamify AI, Cloud, and Innovation in Africa. Modeled after best practices from programs like MTN mPulse, MTN Y’ellopreneur, and DigitalOcean Hatch
-#
+
+---
 
 ### Yamify LaunchPad Accelerator
 
 #### Empowering African Builders in AI, Cloud & Digital Innovation
-#
 
-🔥 Overview
+---
+
+🔥 **Overview**
 
 Yamify LaunchPad is a 6–12-week accelerator program designed to support early-stage startups, solo founders, and developers across Africa building transformative solutions using AI, cloud technologies, data, and digital infrastructure.
 
@@ -15,23 +17,23 @@ The program combines equity-free funding, cloud credits, mentorship, product sup
 
 ---
 
-🎯 Who is it for?
+🎯 **Who is it for?**
 
-Early-stage African startups (0–3 years)
+- Early-stage African startups (0–3 years)
 
-Solo founders or teams building AI/Cloud-powered products
+- Solo founders or teams building AI/Cloud-powered products
 
-Student innovators & tech enthusiasts
+- Student innovators & tech enthusiasts
 
-Women-led tech ventures
+- Women-led tech ventures
 
-NGOs or community initiatives solving real-world problems with tech
+- NGOs or community initiatives solving real-world problems with tech
 
 
 
 ---
 
-🛠️ What Participants Get
+🛠️ **What Participants Get**
 
 Category	Benefits
 
