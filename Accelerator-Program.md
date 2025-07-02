@@ -111,7 +111,7 @@ Requirements: Pitch deck, team profile, 2-min intro video (optional)
 
 ---
 
-🧩 Strategic Partners (Optional Ideas)
+🧩 **Strategic Partners (Optional Ideas)**
 
 MTN, Google for Startups, AWS, n8n, GitHub, local universities, co-working spaces
 
@@ -119,7 +119,7 @@ MTN, Google for Startups, AWS, n8n, GitHub, local universities, co-working space
 
 ---
 
-📊 Post-Program Support
+📊 **Post-Program Support**
 
 Yamify Circle: Access to alumni resources, job board, investor intros
 
@@ -131,7 +131,7 @@ Ongoing mentorship: Quarterly check-ins, roadmap reviews
 
 ---
 
-💡 Examples of Use Cases We Love
+💡 **Examples of Use Cases We Love**
 
 AI chatbots for farmers, students, SMEs
 
@@ -144,15 +144,5 @@ Fintech tools for informal economies
 
 
 ---
-
-Let me know if you'd like:
-
-a landing page design
-
-application form template
-
-email sequence for onboarding
-
-or to format this into a PDF brochure for presentations.
 
 
