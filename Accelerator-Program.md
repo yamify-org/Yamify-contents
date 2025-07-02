@@ -35,14 +35,19 @@ The program combines equity-free funding, cloud credits, mentorship, product sup
 
 🛠️ **What Participants Get**
 
-Category	Benefits
+**Category	& Benefits**
 
-💰 Funding & Credits	- Up to $5,000 in Yamify AI/Cloud credits<br>- Startup vouchers & tools
-🧠 Mentorship	- Weekly sessions with experts in AI, DevOps, and Business Growth
-🌐 Visibility	- Featured on Yamify platforms<br>- Global showcase & investor days
-🏗️ Product Support	- Access to Yamify APIs, models, and automation tools
-🤝 Community Access	- Private founder community<br>- Access to Yamify Slack & meetups
-🎓 Workshops	- Hands-on learning: Design Thinking, Cloud Deployment, GTM strategy
+- 💰 Funding & Credits	- Up to $5,000 in Yamify AI/Cloud credits - Startup vouchers & tools
+
+- 🧠 Mentorship	- Weekly sessions with experts in AI, DevOps, and Business Growth
+
+- 🌐 Visibility	- Featured on Yamify platforms<br>- Global showcase & investor days
+
+- 🏗️ Product Support	- Access to Yamify APIs, models, and automation tools
+
+- 🤝 Community Access	- Private founder community<br>- Access to Yamify Slack & meetups
+
+- 🎓 Workshops	- Hands-on learning: Design Thinking, Cloud Deployment, GTM strategy
 
 
 
