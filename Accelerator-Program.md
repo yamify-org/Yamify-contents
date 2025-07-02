@@ -55,20 +55,36 @@ The program combines equity-free funding, cloud credits, mentorship, product sup
 
 🗓️ **Program Timeline (Example for 12 Weeks)**
 
-- **Week 1**
+- **Week 1:**
 
    - Theme:	Orientation
    - Focus: Onboarding, ecosystem overview, community building
 
-- **Week 2** 
+- **Week 2-3:** 
 
-   - Theme:	Orientation
+   - Theme: Product Discovery
+   - Focus: Problem validation, market research, product design
+
+- **Week 4-5:** 
+
+   - Theme: Tech Deep Dive
+   - Focus: AI integration, automation with n8n, cloud infrastructure on Yamify
+
+- **Week 6:** 
+
+   - Theme: Mentorship Sprint
+   - Focus: 1:1s with product, tech, and business mentors
+
+- **Week 7-8:** 
+
+   - Theme: Go-to-Market & Monetization
+   - Focus: Marketing strategy, customer acquisition, revenue models
+
+- **Week 9-10:** 
+
+   - Theme: Go-to-Market & Monetization
    - Focus:
-
-2–3	Product Discovery	Problem validation, market research, product design
-4–5	Tech Deep Dive	AI integration, automation with n8n, cloud infrastructure on Yamify
-6	Mentorship Sprint	1:1s with product, tech, and business mentors
-7–8	Go-to-Market & Monetization	Marketing strategy, customer acquisition, revenue models
+		
 9–10	Demo Readiness	Pitch building, storytelling, technical polish
 11	Public Demo Day	Present to investors, partners, media
 12	Graduation + Yamify Circle	Long-term founder support begins
