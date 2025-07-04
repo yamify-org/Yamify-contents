@@ -88,7 +88,7 @@ Future-Proof Savings: The more teams or projects you have, the more you save.
 
 ---
 
-📊 #### Typical Cost Savings
+#### 📊 Typical Cost Savings
 
 #### Scenario	
 - 5 small teams on AWS EKS
@@ -112,7 +112,7 @@ Future-Proof Savings: The more teams or projects you have, the more you save.
 
 ---
 
-💡 #### The Bottom Line
+#### 💡 The Bottom Line
 
 💰 Yamify can cut your Kubernetes costs by 50–60% or more.
 🌍 Your teams still get what they need, but your company saves thousands of dollars every year.
