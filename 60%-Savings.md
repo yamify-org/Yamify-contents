@@ -50,7 +50,7 @@ That’s a 50–60% cost reduction. As your teams and projects grow, the savings
 
 ---
 
-🔍 #### Why vClusters Save So Much
+#### 🔍 Why vClusters Save So Much
 
 🛡️ **Problem with Traditional Clusters**	
 
