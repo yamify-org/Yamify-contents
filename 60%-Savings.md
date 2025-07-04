@@ -9,13 +9,13 @@ With Yamify’s vCluster technology, your teams don’t need separate Kubernetes
 
 **This means:**
 
-Fewer clusters to manage
+- Fewer clusters to manage
 
-Less wasted capacity
+- Less wasted capacity
 
-Lower cloud fees
+- Lower cloud fees
 
-Better use of your servers
+- Better use of your servers
 
 
 
@@ -23,7 +23,7 @@ Better use of your servers
 
 ### 💸 Real-World Example of Savings
 
-🔴 **Traditional Approach:**
+#### 🔴 Traditional Approach:
 
 If 5 teams each run their own Kubernetes cluster on AWS or Google Cloud:
 
@@ -34,7 +34,7 @@ You also pay for extra servers (nodes) that mostly sit idle.
 Altogether, you might spend $800–$1,000+ per month (or $9,600–$12,000/year).
 
 
-🟢 **With Yamify’s vClusters:**
+#### 🟢 With Yamify’s vClusters:
 
 You only pay for one Kubernetes cluster, not 5.
 
@@ -50,7 +50,7 @@ That’s a 50–60% cost reduction. As your teams and projects grow, the savings
 
 ---
 
-🔍 **Why vClusters Save So Much**
+🔍 #### Why vClusters Save So Much
 
 🛡️ **Problem with Traditional Clusters**	
 
@@ -72,7 +72,7 @@ That’s a 50–60% cost reduction. As your teams and projects grow, the savings
 
 ---
 
-⚙️ **How This Helps You**
+#### ⚙️ How This Helps You
 
 Lower Cloud Bills: Save on AWS, Google Cloud, Azure, or your on-prem hardware.
 
@@ -88,7 +88,7 @@ Future-Proof Savings: The more teams or projects you have, the more you save.
 
 ---
 
-📊 **Typical Cost Savings**
+📊 #### Typical Cost Savings
 
 #### Scenario	
 - 5 small teams on AWS EKS
@@ -112,7 +112,7 @@ Future-Proof Savings: The more teams or projects you have, the more you save.
 
 ---
 
-💡 **The Bottom Line**
+💡 #### The Bottom Line
 
 💰 Yamify can cut your Kubernetes costs by 50–60% or more.
 🌍 Your teams still get what they need, but your company saves thousands of dollars every year.
