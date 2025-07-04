@@ -1,5 +1,5 @@
 
-## 🌟 How Yamify Saves You Money: Up to 60% Savings
+## 🌟 How Yamify Saves You Money -- Up to 60% Savings
 
 Running Kubernetes (K8s) clusters in the cloud or on your own servers can be expensive — especially when every team or project runs its own cluster. You pay the same fixed costs over and over again for things like control planes, node resources, and monitoring tools. A lot of these costs go to waste when servers sit idle.
 
