@@ -28,27 +28,41 @@ No wasted resources.
 
 ---
 
-💸 The Savings:
+### 💸 The Savings:
 
-Example	Traditional Clusters	Yamify vClusters	Savings
+#### Example	
+- AWS (5 teams)
+- GCP (20 projects)	
+- Azure (5 teams)
 
-AWS (5 teams)	$800+/month	$300/month	~60% saved
-GCP (20 projects)	$34,700/year	$7,600/year	~78% saved
-Azure (5 teams)	$500/month	$300/month	~40% saved
+#### Traditional Clusters	
+- $800+/month
+- $34,700/year	
+- $500/month
+
+#### Yamify vClusters	
+- $300/month	
+- $7,600/year
+- $300/month
+
+#### Savings
+- ~60% saved
+- ~78% saved
+-	~40% saved
 
 
 
 ---
 
-🔍 Key Benefits:
+### 🔍 Key Benefits:
 
-🚀 Share one cluster, cut out duplicate costs
+- 🚀 Share one cluster, cut out duplicate costs
 
-🛡️ Full team isolation & security
+- 🛡️ Full team isolation & security
 
-⚙️ Less idle time = lower bills
+- ⚙️ Less idle time = lower bills
 
-🌱 Scale efficiently as you grow
+- 🌱 Scale efficiently as you grow
 
 
 
@@ -58,19 +72,4 @@ Azure (5 teams)	$500/month	$300/month	~40% saved
 
 Yamify makes Kubernetes simple, scalable, and cost-effective.
 
-
----
-
-I can also generate a visual slide with graphics and your brand colors. Do you want it as:
-
-📄 PowerPoint slide
-
-🌐 Website section
-
-📱 Social media post (Instagram, LinkedIn, etc.)
-
-🎥 Short explainer video
-
-
-Which one would you like first?
 
