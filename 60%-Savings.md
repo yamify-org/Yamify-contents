@@ -90,12 +90,23 @@ Future-Proof Savings: The more teams or projects you have, the more you save.
 
 📊 **Typical Cost Savings**
 
-Scenario	Without Yamify	With Yamify	Savings
+#### Scenario	
+- 5 small teams on AWS EKS
+- 20 small projects on Google GKE
+- 5 teams on Azure AKS
+- On-prem with 20 servers
 
-5 small teams on AWS EKS	$800/month	$300/month	~60%
-20 small projects on Google GKE	$34,660/year	$7,558/year	~78%
-5 teams on Azure AKS	$500/month	$300/month	~40%
-On-prem with 20 servers	20 servers	10–12 servers	~50%
+#### Without Yamify	
+- $800/month
+- $34,660/year
+- $500/month	
+- 20 servers	
+
+#### With Yamify	Savings
+- $300/month	~60%
+- $7,558/year	~78%
+- $300/month	~40%
+- 10–12 servers	~50%
 
 
 
