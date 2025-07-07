@@ -134,27 +134,32 @@ Test your chatbot using Postman, curl, or a simple web chat UI.
 
 ---
 
-🎯 Use Case Examples
+### 🎯 Use Case Examples
 
-Use Case	Example Outcome
+**Use Case**	
+- Customer Support Chatbot
+- Internal IT Helpdesk
+- Learning Assistant
+- E-commerce Product Recommender
 
-Customer Support Chatbot	Handles FAQs 24/7 on your website
-Internal IT Helpdesk Bot	Automates password resets for your employees
-Learning Assistant	Answers questions from your documentation
-E-commerce Product Recommender	Suggests products based on customer chats
+**Example Outcome**
+- Handles FAQs 24/7 on your website
+- Bot	Automates password resets for your employees
+- Answers questions from your documentation
+- Suggests products based on customer chats
 
 
 
 ---
 
-🏁 Done!
+### 🏁 Done!
 
 You’ve now deployed a fully functional AI chatbot on Kubernetes without managing infrastructure, YAML files, or CI/CD pipelines.
 
 
 ---
 
-➕ Next Steps
+### ➕ Next Steps
 
 Add a database (e.g., Redis, MongoDB) for storing conversations.
 
@@ -162,9 +167,4 @@ Automate chatbot updates using Yamify Pipelines.
 
 Join the Yamify community for support and ideas.
 
-
-
----
-
-👉 Would you like this as a PDF, slide deck, blog post, or in a live demo format?
 
