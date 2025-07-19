@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/20250624-213229.jpg)
-
 
 # Yamify-contents
 Content histories of Yamify AI Cloud 
