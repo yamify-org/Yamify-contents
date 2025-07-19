@@ -1,4 +1,4 @@
-![image] (https://yamify.co/auth/onboarding)
+![image](https://user-images.githubusercontent.com/3408362/230732083-1c98e451-08af-41c2-b522-126370e8c6a5.png)
 
 
 # Yamify-contents
