@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/Screenshot_20250624-213229.jpg)
+![image](https://user-images.githubusercontent.com/20250624-213229.jpg)
 
 
 # Yamify-contents
