@@ -1,3 +1,5 @@
+![image] (https://yamify.co/auth/onboarding)
+
 
 # Yamify-contents
 Content histories of Yamify AI Cloud 
