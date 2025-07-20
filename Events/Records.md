@@ -43,70 +43,70 @@
 
 10. 08109343220
 
-   - Precious Abubarka: Kubernetes Backend
+    - Precious Abubarka: Kubernetes Backend
 
 11. 08031902398
 
-   - Umar: Fullstack 
+    - Umar: Fullstack 
 
 12. 08102519831
 
-   - Victor: Backend 
+    - Victor: Backend 
 
 13. 07089200671
 
-   - Tope Boaz: Founder (Open to Demo - Top priority)
+    - Tope Boaz: Founder (Open to Demo - Top priority)
 
 14. 07087607970
 
-   - David: Backend 
+    - David: Backend 
 
 15. 08112075793
 
-   - Godspower: Backend
+    - Godspower: Backend
 
 16. 09028075720
 
-   - Ikeoluwa: Backend
+    - Ikeoluwa: Backend
 
 17. 09021936453
 
-   - Kene Ozodi: Fullstack
+    - Kene Ozodi: Fullstack
 
 18. 09015004249
 
-   - Motunrayo: Frontend 
+    - Motunrayo: Frontend 
 
 19. 08102673964
 
-   - Omikunle: Backend 
+    - Omikunle: Backend 
 
 20. 09052794388
 
-   - Pius Ash: Backend 
+    - Pius Ash: Backend 
 
 21. 07036671665
 
-   - Queen: Backend
+    - Queen: Backend
 
 22. 08155942551
 
-   - Ridwan: Frontend 
+    - Ridwan: Frontend 
 
 23. 08168319760
 
-   - Taofeek Olaniyi: Fullstack 
+    - Taofeek Olaniyi: Fullstack 
 
 24. 08149548345
 
-   - Timileyin: Backend
+    - Timileyin: Backend
 
 25. 09036930952
 
-   - Moses: Backend 
+    - Moses: Backend 
 
 26. 08107058198
 
-   - Elsie: Frontend 
-
+    - Elsie: Frontend 
+ 
 
