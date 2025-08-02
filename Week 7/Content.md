@@ -3,6 +3,7 @@
 
 *“In AI, it's not about what you know. It’s about what you can build.”*
 — Luc Okalobe, Founder, Yamify
+
 ---
 
 In Africa’s booming tech ecosystem, certifications have long been treated as the ticket to opportunity. For years, CVs padded with AWS, Google, or IBM badges have opened doors to job interviews, internship slots, and accelerator programs.
@@ -19,6 +20,7 @@ And yet, what’s the return on investment?
 While certifications signal familiarity, they often fail to prove readiness. According to a 2023 survey by Zindi Africa, less than 5% of certified AI learners in Africa have an active GitHub repo with working AI code.
 
 Why? Because certifications measure knowledge, not experience.
+
 ---
 
 ### The Power of Open-Source Tools and Live Environments
