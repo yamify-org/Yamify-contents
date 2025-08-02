@@ -46,3 +46,21 @@ A 2022 GitHub Octoverse report showed that:
 That’s not just growth—that’s transformation.
 
 ---
+
+### Real-World Proof: Open-Source in Action
+
+Consider HealthIQ, a Kenyan healthtech startup.
+Born out of an AI-for-Good hackathon in 2022, the team used: 
+
+ - Hugging Face Transformers to build a disease classification model
+ - Streamlit to deploy a front-end dashboard
+ - Docker to containerize and deploy on a local server
+
+The result? A fully functional AI-powered health assistant, now serving 10,000+ users across Kenya and Uganda.
+
+  *“We didn’t have time for certifications. We had tools, a use case, and urgency. The open-source community got us from idea to MVP in weeks.”*
+— Founding Engineer, HealthIQ
+
+Now they’re raising a pre-seed round—and still haven’t paid for a certification.
+
+---
