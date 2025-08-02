@@ -19,3 +19,15 @@ And yet, what’s the return on investment?
 While certifications signal familiarity, they often fail to prove readiness. According to a 2023 survey by Zindi Africa, less than 5% of certified AI learners in Africa have an active GitHub repo with working AI code.
 
 Why? Because certifications measure knowledge, not experience.
+---
+
+### The Power of Open-Source Tools and Live Environments
+
+Contrast this with the open-source revolution in AI.
+
+Tools like:
+
+ - Jupyter Notebooks for interactive
+   model development
+ - Hugging Face for pre-trained
+   transformer models and datasets
