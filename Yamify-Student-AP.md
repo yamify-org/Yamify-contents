@@ -13,6 +13,7 @@ To grow a continent-wide movement of students exploring and building with AI tec
 ### Objective:
 
 To drive awareness, adoption, and innovation of the Yamify platform within Nigerian universities through a structured student-led ambassador program and campus-wide engagements.
+
 ---
 
 #### 1. Program Goals
