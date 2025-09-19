@@ -32,3 +32,17 @@ a. University Chapters
   - Onboard new users into a WhatsApp/Telegram/ Slack channel
   - Represent the brand on campus
 Volunteer in Yamify events
+
+b. Yamify Ambassadors
+- Ambassadors will be trained to:
+
+  - Organize workshops, tech talks, and mini-hackathons
+  - Build Yamify-focused developer communities
+  - Promote Yamify’s free tools and events
+  - Gather feedback from users on campus
+
+c. Community Events
+- Monthly virtual check-ins across all universities
+- Campus-specific onboarding events
+- Yamify Hackathons & Build Challenges
+- “AI Project of the Month” student showcases
