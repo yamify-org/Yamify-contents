@@ -22,3 +22,13 @@ To drive awareness, adoption, and innovation of the Yamify platform within Niger
 - Create a unified Yamify student community across top universities.
 - Nurture a pipeline of young innovators and early adopters who contribute to Yamify’s growth.
 - Promote student-led AI/cloud projects, competitions, and hackathons using Yamify tools.
+
+#### 2. Program Structure
+
+a. University Chapters
+- Each university will have a Yamify Student Chapter led by 1–3 Student Ambassadors who:
+
+  - Coordinate Yamify-related activities
+  - Onboard new users into a WhatsApp/Telegram/ Slack channel
+  - Represent the brand on campus
+Volunteer in Yamify events
