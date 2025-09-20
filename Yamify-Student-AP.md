@@ -46,3 +46,15 @@ c. Community Events
 - Campus-specific onboarding events
 - Yamify Hackathons & Build Challenges
 - “AI Project of the Month” student showcases
+
+#### 3. Perks & Incentives for Student Ambassadors
+- Free Yamify AI credits for personal or school projects
+- Exclusive Yamify swag (shirts, hoodies)
+- Monthly data stipends or support allowances
+- Access to AI/Cloud bootcamps, learning tracks, and certificates
+- One-on-one mentorship with Yamify engineers & startup founders
+- Recommendation letters and career support for internships or jobs
+- Bonuses for onboarding milestones or event organization
+- Talent pipeline for students
+- Volunteer & ambassador badges to be displayed on LinkedIn
+- Recognition on our social media channels
