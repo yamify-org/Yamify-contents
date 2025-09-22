@@ -58,3 +58,24 @@ c. Community Events
 - Talent pipeline for students
 - Volunteer & ambassador badges to be displayed on LinkedIn
 - Recognition on our social media channels
+
+#### 4. Rollout Plan
+- Phase
+
+  - Phase 1: Pilot (Aug–Sept 2025)
+
+Activity 
+
+- Select 3–5 universities to pilot the ambassador program (e.g., UNILAG, LASU, LASUED, IB)
+
+  - Phase 2: Expansion (Oct–Dec 2025)
+
+Activity 
+
+- Launch Yamify Chapters in 2-3 additional campuses (eg Yabatech)
+
+  - Phase 3: Unification (Jan–Mar 2026)
+
+Activity 
+
+- Host a cross-campus virtual summit, unify student groups into a single Yamify Community Network with dedicated platform access
