@@ -79,3 +79,12 @@ Activity
 Activity 
 
 - Host a cross-campus virtual summit, unify student groups into a single Yamify Community Network with dedicated platform access
+
+#### 5. Coordination Tips Across Universities
+
+- Use WhatsApp/Slack to create a central hub for all ambassadors and chapters
+- Create a “Yamify Campus Playbook” for onboarding new ambassadors
+- Set up a monthly leaderboard to gamify engagement (e.g., events hosted, users onboarded)
+- Establish a community manager role within Yamify to act as point-of-contact
+- Hold quarterly Ambassador Townhalls to share updates, resolve issues, and brainstorm initiatives
+- Partner with school tech clubs (e.g., GDG, Tech communities, Dev Circles) to co-host events
