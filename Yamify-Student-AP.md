@@ -88,3 +88,11 @@ Activity
 - Establish a community manager role within Yamify to act as point-of-contact
 - Hold quarterly Ambassador Townhalls to share updates, resolve issues, and brainstorm initiatives
 - Partner with school tech clubs (e.g., GDG, Tech communities, Dev Circles) to co-host events
+
+#### 6. KPIs to Track
+
+- of ambassadors onboarded
+- of active Yamify users per campus
+- Events hosted per quarter
+- Student projects deployed on Yamify
+- Community feedback scores
